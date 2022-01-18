@@ -2,3 +2,4 @@
 
 
 print("dfdgfgfhfddf")
+name = "Yaroslav"
