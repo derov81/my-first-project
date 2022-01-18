@@ -3,3 +3,5 @@
 
 print("dfdgfgfhfddf")
 name = "Yaroslav"
+age =2
+
